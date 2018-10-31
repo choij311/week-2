@@ -1,0 +1,29 @@
+body{
+ font-family: Geneva, Tahoma, Verdana, sans-serif;
+    font-size: 100%;
+    margin: 0 auto;
+    width: 900px;
+
+}
+header{}
+nav{
+     padding-bottom: 10px;
+    padding-left: 35px;
+    padding-top: 10px;
+
+}
+li {
+    list-style-type: none;
+}
+
+a:li{
+     color: #FFF;
+    text-decoration: none;
+
+}
+article{}
+reference-image{}
+hi{}
+h2{}
+h3{}
+p{}
